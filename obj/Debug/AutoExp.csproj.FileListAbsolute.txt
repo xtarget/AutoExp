@@ -1,0 +1,7 @@
+C:\Users\Christopher\Documents\GitHub\AutoExp\obj\Debug\AutoExp.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\GitHub\AutoExp\obj\Debug\AutoExp.Forms.Main.resources
+C:\Users\Christopher\Documents\GitHub\AutoExp\obj\Debug\AutoExp.Forms.Settings.resources
+C:\Users\Christopher\Documents\GitHub\AutoExp\obj\Debug\AutoExp.Properties.Resources.resources
+C:\Users\Christopher\Documents\GitHub\AutoExp\obj\Debug\AutoExp.csproj.GenerateResource.Cache
+C:\Users\Christopher\Documents\GitHub\AutoExp\obj\Debug\AutoExp.dll
+C:\Users\Christopher\Documents\GitHub\AutoExp.dll

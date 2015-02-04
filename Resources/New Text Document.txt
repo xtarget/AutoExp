@@ -1,0 +1,100 @@
+Elf Start Zone "Gweonid Forest"
+
+Level 1
+	Q1. Harpa's Return 
+		ID: 16
+		Start: Gweonid_Lessev (389)
+		End: Gweonid_Harpa (390)
+		Type: Talk to NPC (390)
+
+	Q2. Branch Breaker
+		ID: 10
+		Start: Gweonid_Naion (7708)
+		MoveTo: Quest_10
+		End: Gweonid_Madriel (7709)
+		Type: Grind (506, 507, 508)
+
+Level 2
+	Q3. Beal's Feast
+		ID: 11
+		Required: 10
+		Start: Gweonid_Madriel (7709)
+		MoveTo: Quest_11
+		End: Gweonid_Beal (624)
+		Type: Grind (503) / Loot (14391)
+
+Level 3
+	Q4. Climb Time
+		ID: 15
+		Required: 11
+		Start: Gweonid_Beal (624)
+		End: Gweonid_Beal (624)
+		Type: Grind Doodad (284) / Loot (1466)
+
+	Q5. Made with Love
+		ID: 17
+		Required: 15
+		Start: Gweonid_Beal (624)
+		End: Gweonid_Sellus (5931)
+		Type: Transport (5931)
+
+	Q6. Under Construction
+		ID: 64
+		Required: 17
+		Start: Gweonid_Sellus (5931)
+		End: Gweonid_Sellus (5931)
+		Type: Grind Doodad (2880)
+
+Level 4
+	Q7. Yuri's Ambition 
+		ID: 2476
+		Required: 64
+		Start: Gweonid_Yari (5938)
+		MoveTo: Quest_2476
+		End: Gweonid_Yari (5938)
+		Type: Exploration
+
+	Q8. Stone Cold Killer 
+		ID: 52
+		Required: 2476
+		Start:  Gweonid_Yari (5938)
+		MoveTo: Quest_52
+		End: Gweonid_Yari (5938)
+		Type: Grind (3676, 7646) / Loot (16388)
+		
+	Q9. Nettling Nymphs
+		ID: 24
+		Start: Quest_24
+		Type Grind (7625)
+
+	Q10. Debt Delivery
+		ID: 38
+		Required: 52
+		Start: Gweonid_Sellus (5931)
+		End: Gweonid_Graneth (626)
+		Type: Transport
+
+Level 5
+	Q11. The Field of Honor 
+		ID: 2385
+		End: Gweonid_Breken (7816)
+		Type: Complete (Story)
+
+	Q. Choose Your Challenger 
+		ID: 2386
+		Required: 2385
+		Start: Gweonid_Breken (7816)
+		End: Gweonid_Breken (7816)
+		Type: Grind Doodad (2881)
+
+
+
+
+
+	Q. 
+		ID: 
+		Required: 
+		Start: 
+		End: 
+		Type: 
+
